@@ -12,7 +12,7 @@
 <a href = "mailto:amorim.amadeus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/amadeusamorim/amadeusamorim/blob/output/github-contribution-grid-snake.svg)
-
+##
 ### Conhecimento:
 <div style="display: inline_block">
   <img align="center" alt="Ama-SqlSv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
