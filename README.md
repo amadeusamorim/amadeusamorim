@@ -11,7 +11,7 @@
 [![Blog](https://img.shields.io/website?label=ALURA&style=for-the-badge&url=https://cursos.alura.com.br/user/amorim-amadeus)](https://cursos.alura.com.br/user/amorim-amadeus)
 <a href = "mailto:amorim.amadeus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/rafaballerini/amadeusamorim/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/amadeusamorim/blob/output/github-contribution-grid-snake.svg)
 
 ### Conhecimento:
 <div style="display: inline_block">
