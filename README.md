@@ -28,9 +28,10 @@
   ### Próximos passos:
 <div style="display: inline_block">
   <img align="center" alt="Ama-Azure" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="Ama-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Ama-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-  <img align="center" alt="Ama-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div><br/>
+          
 
 
 
