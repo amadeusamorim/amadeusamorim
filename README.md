@@ -4,7 +4,7 @@
 - 🏨 Atualmente trabalho como Analista de Receitas, na @WelkomHoteis.
 - 🎓 Formado em Administração pelo IFPB em 2018 e 50% graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
 - 📚 Estudando via @Alura, @DIO, @DSA e demais plataformas de ensino voltadas à área de tecnologia.
-- 💻 Pegando impulso para atuar na área de Data.
+- 💻 Pegando impulso para atuar na área de Engenharia de Dados.
 - 💬 Facilidade em comunicar-se com o time e estabelecer um bom network.
 ##
 <a href="https://www.linkedin.com/in/amadeusamorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -29,8 +29,10 @@
 <div style="display: inline_block">
   <img align="center" alt="Ama-Azure" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Ama-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="Ama-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Ama-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 </div><br/>
+
           
 
 
