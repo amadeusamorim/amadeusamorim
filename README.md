@@ -1,11 +1,10 @@
 ### Heyy! Eu sou o Amadeus Amorim ✌️
 
 
-- 🎖️ 2x Microsoft Azure Certified. 1x Databricks Certified.
-- 🏨 Atualmente trabalho como Analista de Receitas, na @WelkomHoteis.
-- 🎓 Formado em Administração pelo IFPB em 2018 e 75% graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
+- 🎖️ 3x Microsoft Azure Certified. 1x Databricks Certified. 1x Apache Airflow Certified (Astronomer)
+- 🏨 Data Engineer @ Rox Partner
+- 🎓 Formado em Administração pelo IFPB em 2018 e graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
 - 📚 Estudando via @HowBootcamps, @Alura, @DIO, @DSA e demais plataformas de ensino voltadas à área de tecnologia.
-- 💻 Pegando impulso para atuar na área de Engenharia de Dados.
 - 💬 Facilidade em comunicar-se com o time e estabelecer um bom network.
 ##
 <a href="https://www.linkedin.com/in/amadeusamorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
