@@ -1,4 +1,4 @@
-# I'm Amadeus Amorim 👋
+# I'm Amadeus Amorim 👋🏻
 
 **Data Engineer** | Scalable Data Platforms | Lakehouse & Medallion Architecture | Cloud-Native Pipelines
 
