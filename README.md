@@ -1,56 +1,72 @@
-### Heyy! Eu sou o Amadeus Amorim ✌️
+# I'm Amadeus Amorim 👋
+
+**Data Engineer** | Scalable Data Platforms | Lakehouse & Medallion Architecture | Cloud-Native Pipelines
 
 
-- 🎖️ 3x Microsoft Azure Certified. 1x Databricks Certified. 1x Apache Airflow Certified (Astronomer)
-- 🏨 Data Engineer @ Rox Partner
-- 🎓 Formado em Administração pelo IFPB em 2018 e graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
-- 📚 Estudando via @HowBootcamps, @Alura, @DIO, @DSA e demais plataformas de ensino voltadas à área de tecnologia.
-- 💬 Facilidade em comunicar-se com o time e estabelecer um bom network.
-##
-<a href="https://www.linkedin.com/in/amadeusamorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[![Blog](https://img.shields.io/website?label=ALURA&style=for-the-badge&url=https://cursos.alura.com.br/user/amorim-amadeus)](https://cursos.alura.com.br/user/amorim-amadeus)
-<a href = "mailto:amorim.amadeus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+**4+ years** building and operating production data platforms on **Microsoft Azure**. Currently engineering a **multi-tenant platform** serving **40+ organizations across 25+ countries** — from ingestion to ML feature serving.
 
-  ![Snake animation](https://github.com/amadeusamorim/amadeusamorim/blob/output/github-contribution-grid-snake.svg)
-##
-### Conhecimento:
-<div style="display: inline_block">
-  <img align="center" alt="Ama-SqlSv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Ama-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ama-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Ama-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ama-Spark" height="30" width="40" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg">
-  <img align="center" alt="Ama-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Ama-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Ama-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Ama-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Ama-Azure" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Ama-Databricks" height="30" width="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg">
-  <img align="center" alt="Ama-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-  <img align="center" alt="Ama-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Ama-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+I blend technical depth with business understanding to deliver data solutions that are fast, reliable, and governed at scale.
+
+## 🛠️ What I've Built in Production
+
+- End-to-end **Medallion Architecture** (Bronze/Silver/Gold) with **50+ production notebooks** and **10+ reusable Python libraries** (Delta Lake, Snowflake, Cosmos DB, encryption, data quality, feature store, logging)
+- **Feature Store** computing **20+ ML features per customer** — propensity scores, gap analysis, digital classification — feeding algorithms and experimentation
+- Batch and streaming pipelines from **Snowflake, REST APIs, Cosmos DB, Event Hubs** using **Spark Structured Streaming** with exactly-once semantics
+- Pipeline runtime reduced from **~4h to ~1.5h** (62% faster, ~40% cost reduction) via partitioning, broadcast joins, caching, and concurrency control
+- API delivery system with chunking, retry, and parallel processing — **99.5% success rate** across multi-country workflows
+- **Unity Catalog** governance, **AES-256** PII encryption, and full environment isolation (SIT/UAT/PRD)
+- CI/CD via **Azure DevOps** with multi-region deployments, **Terraform**, **ARM templates**, and **SonarQube** quality gates
+- Data quality framework with automated freshness, duplicate, NULL, and partition checks + Teams/Slack alerting
+
+## 🏅 Certifications
+
+| Databricks | Microsoft Azure | Other |
+|---|---|---|
+| Data Engineer **Professional** | Azure Data Engineer Associate (**DP-203**) | Apache **Airflow** Fundamentals |
+| Data Engineer **Associate** | Azure Data Fundamentals (DP-900) | |
+| Lakehouse Fundamentals | Azure Fundamentals (AZ-900) | |
+| | Azure AI Fundamentals (AI-900) | |
 
 
-  
+## 👨🏻‍💻 Tech Stack
+
+**Core:** Python · PySpark · Apache Spark · SQL · Databricks · Delta Lake
+
+**Cloud:** Azure Data Factory · Azure Synapse · ADLS Gen2 · Cosmos DB · Key Vault · Azure DevOps · Terraform
+
+**Data:** Snowflake · Power BI · Data Modeling · ETL/ELT · Unity Catalog
+
+**Practices:** CI/CD · DataOps · Data Governance · Data Quality · Observability · Agile
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="28" height="28"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="28" height="28"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="28" height="28"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" height="28"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="28" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="28" height="28"/>
+</p>
 
 
-  ### Próximos passos:
-<div style="display: inline_block">
-  <img align="center" alt="Ama-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img align="center" alt="Ama-Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-  <img align="center" alt="Ama-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Ama-Jenkis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Ama-Jenkis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Ama-Jenkis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg">
-  <img align="center" alt="Ama-Jenkis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+## 💼 Experience
+
+| Period | Role | Highlights |
+|--------|------|------------|
+| **2024 – Present** | **Data Engineer** @ AB InBev | Multi-tenant platform, 25+ countries, lakehouse, feature store, pipeline optimization |
+| **2024** | **Data Engineer** @ NTT DATA | Cloud pipelines, API & NoSQL ingestion, analytics-ready datasets |
+| **2022 – 2024** | **Data Engineer** @ Rox Partner | Azure ETL, medallion architecture, monitoring & metrics |
 
 
+### 📩 Let's connect
 
-
-</div><br/>
-
-          
-
-
-
-
+- [LinkedIn](https://www.linkedin.com/in/amadeusamorim)
+- [Email](mailto:amorim.amadeus@gmail.com)
+---
+_Before data engineering, I spent 8+ years in **Revenue Management** for the hotel industry — where I learned to think in KPIs, trends, and data-driven decisions before writing my first line of PySpark._
